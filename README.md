@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, my name is Austin Cuddeback 👋
 
-<!--
-**ajcuddeback/ajcuddeback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+- 🌱 *I am currently a UCF Coding Bootcamp student learning Full-Stack Web Development*
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Portfolio
+![my portfolio](image/screencapture-ajcuddeback-github-io-2020-10-24-14_19_37.png)
+**Description:** This is my [personal portfolio](https://ajcuddeback.github.io) showcasing all of my projects and social links
+
+### Explore Outdoors
+![Explore Outdoors](images/explore-outdoors.png)
+**Description:** [Explore Outdoors](https://ajcuddeback.github.io/Explore-Outdoors) is your one stop website to find the perfect destination for your next vacation when you can't decide where to go. Take our 12 question test and find the perfect destination based on six beautiful places we hand picked for you!
+
+
+## 📫 How to reach me: ...
+* Email: [ajcuddeback@gmail.com](ajcuddeback@gmail.com)

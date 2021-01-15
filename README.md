@@ -18,11 +18,11 @@
 
 ![Explore Outdoors](images/explore-outdoors.png)
 
-### [BeatMaker Project](https://ajcuddeback.github.io/beat-maker)
+### [Hernando Reptile](https://www.hernandoreptile.org)
 
-- This beatmaker is my first JavaScript application using Object Oriented Programming! This project was inspired and helped from [Developed by Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- Hernando Reptile is an ongoing project with Hernando Reptile and Exotics Rescue.
 
-![BeatMaker Project](images/beat-maker.png)
+![Henando Reptile](images/home-img-prev.png)
 
 ## 📫 How to reach me: ...
 

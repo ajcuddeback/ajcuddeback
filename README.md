@@ -24,6 +24,10 @@
 
 ![Henando Reptile](images/home-img-prev.png)
 
+<br />
+
+<img align="left" alt="Ali-Row's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajcuddeback&show_icons=true&hide_border=true" />
+
 ## 📫 How to reach me: ...
 
 - Email: [ajcuddeback@gmail.com](ajcuddeback@gmail.com)

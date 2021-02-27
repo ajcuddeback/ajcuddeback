@@ -11,6 +11,13 @@
 - This is my personal portfolio showcasing all of my projects and social links
   ![my portfolio](images/screencapture-ajcuddeback-github-io-2020-10-24-14_19_37.png)
 
+  ### [Dev Connect](https://dev-connect-ac.herokuapp.com/login)
+
+- Dev Connect was my second group project from the bootcamp. Built the api for the events page and for all users.
+- Description: Dev Connect is an all-in-one platform for developers to meetup, ask questions, and connect with others.
+
+![Dev Connect](images/dev-connect.png)
+
 ### [Explore Outdoors](https://ajcuddeback.github.io/Explore-Outdoors)
 
 - Explore Outdoors was my first group project from the bootcamp. This project taught me a lot about working well with a team of coders and communication.
@@ -18,11 +25,17 @@
 
 ![Explore Outdoors](images/explore-outdoors.png)
 
-### [BeatMaker Project](https://ajcuddeback.github.io/beat-maker)
+### [Hernando Reptile](https://www.hernandoreptile.org)
 
-- This beatmaker is my first JavaScript application using Object Oriented Programming! This project was inspired and helped from [Developed by Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- Hernando Reptile is an ongoing project with Hernando Reptile and Exotics Rescue.
 
-![BeatMaker Project](images/beat-maker.png)
+![Henando Reptile](images/home-img-prev.png)
+
+<br />
+
+<img align="left" alt="Ali-Row's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajcuddeback&show_icons=true&hide_border=true" />
+
+<br />
 
 ## 📫 How to reach me: ...
 

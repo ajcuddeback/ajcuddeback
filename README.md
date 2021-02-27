@@ -2,7 +2,7 @@
 
 ## About Me
 
-💻 I am a Front-end Web Developer specializing in HTML, CSS, JavaScript, RESTful API's, animations, and design.
+💻 I am a Full-Stack Web Web Developer specializing in HTML, CSS, JavaScript, RESTful API's, animations, and design.
 
 ## My Projects
 

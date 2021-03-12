@@ -10,9 +10,9 @@
 
 <br />
 
-## [My Portfolio](https://ajcuddeback.github.io)
+## [My Portfolio](https://ajcuddeback.github.io/react-portfolio)
 
-- This is my personal portfolio showcasing all of my projects and social links
+- This is my personal portfolio built with React.js showcasing all of my projects and social links
   ![my portfolio](images/screencapture-ajcuddeback-github-io-2020-10-24-14_19_37.png)
   <br />
   <br />

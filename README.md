@@ -18,7 +18,7 @@
   <br />
   <br />
 
-  ## [Dev Connect](https://dev-connect-ac.herokuapp.com/login)
+  ## [Dev Connect](https://dev-connect-v2.herokuapp.com/)
 
 - Dev Connect was my second group project from the bootcamp. Built the api for the events page and for all users.
 - Description: Dev Connect is an all-in-one platform for developers to meetup, ask questions, and connect with others.

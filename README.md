@@ -2,7 +2,7 @@
 
 # About Me
 
-💻 I am a Full-Stack Web Web Developer specializing in MERN stack, MySQL, and GraphQL. Love creating web API's and creating user friendly websites!
+💻 I am a Full-Stack Software Engineer specializing in MERN/MEAN stack, MySQL, Java, and Python.
 
 <br />
 

@@ -2,7 +2,7 @@
 
 # About Me
 
-💻 I am a Full-Stack Software Engineer specializing in MERN/MEAN stack, MySQL, Java, and Python.
+💻 I am a Full-Stack Software Engineer specializing in MERN/MEAN stack, PostgreSQL, Java, and Python.
 
 <br />
 

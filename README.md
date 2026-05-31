@@ -33,8 +33,8 @@
 
 ## [My Portfolio](https://ajcuddeback.github.io/react-portfolio)
 
-- This is my personal portfolio built with React.js showcasing all of my projects and social links
-  ![my portfolio](images/screencapture-ajcuddeback-github-io-2020-10-24-14_19_37.png)
+- This is my personal portfolio built with Angular SSR showcasing all of my projects and social links
+  ![my portfolio](images/portfolio.png)
   <br />
   <br />
   <br />

@@ -31,7 +31,7 @@
 
 # My Projects
 
-## [My Portfolio](https://ajcuddeback.github.io/react-portfolio)
+## [My Portfolio](https://ajcuddeback.com)
 
 - This is my personal portfolio built with Angular SSR showcasing all of my projects and social links
   ![my portfolio](images/portfolio.png)

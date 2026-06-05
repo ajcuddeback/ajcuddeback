@@ -45,6 +45,7 @@
 
   ## Key Features
   - Arcitecture managed E2E - from Raspberry Pi -> MQTT Broker -> Spring Webflux API -> Angular UI
+  - Summary is powered w/ AI to provide consistent weather information and tips
   - Uses an MQTT broker so weather data can be used across many applications. Including email notification service and Home Assistant integrations
   - Temp background matches current conditions and time of day
   - Moon in background matches current Moon cycle

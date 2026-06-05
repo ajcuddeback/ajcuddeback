@@ -38,6 +38,15 @@
   <br />
   <br />
   <br />
+  
+## [Nimbus Home Weather Station](https://nimbus-weather-project.com)
+
+- A homemade weather station. A custom raspberry pi weather station setup in my backyard that streams weather data out and projected to the Nimbus UI
+  ![nimbus home](images/nimbus-home.png)
+  ![nimbus detail](images/nimbus-detail.png)
+  <br />
+  <br />
+  <br />
 
   ## [Dev Connect](https://dev-connect-v2.herokuapp.com/)
 

@@ -42,6 +42,12 @@
 ## [Nimbus Home Weather Station](https://nimbus-weather-project.com)
 
 - A homemade weather station. A custom raspberry pi weather station setup in my backyard that streams weather data out and projected to the Nimbus UI
+
+  ## Key Features
+  - Arcitecture managed E2E - from Raspberry Pi -> MQTT Broker -> Spring Webflux API -> Angular UI
+  - Uses an MQTT broker so weather data can be used across many applications. Including email notification service and Home Assistant integrations
+  - Temp background matches current conditions and time of day
+  - Moon in background matches current Moon cycle
   ![nimbus home](images/nimbus-home.png)
   ![nimbus detail](images/nimbus-detail.png)
   <br />
